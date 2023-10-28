@@ -120,3 +120,11 @@ ul li:hover {
     padding: 10px;
     
 }
+
+footer{
+    text-align: center;
+    background-color: #28A9F1;
+    padding: 5px;
+    border-bottom-left-radius: 1em; 
+    border-bottom-right-radius: 1em;
+}
