@@ -128,3 +128,14 @@ footer{
     border-bottom-left-radius: 1em; 
     border-bottom-right-radius: 1em;
 }
+
+@media(min-width: 720px){
+    .container{
+        max-width: 490px;
+    }
+
+    .container img{
+        width: 300px;
+    }
+  
+}
