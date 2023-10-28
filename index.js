@@ -67,5 +67,5 @@ function appendItemToFeedListEl(item){
                             <p class="bottom-text">To: ${toText}</p>
                         </div>`
 
-    feedListEl.append(newEl)
+    feedListEl.prepend(newEl)
 }
