@@ -1,6 +1,6 @@
 # One-Stop Solution App Readme
 
-Welcome to the One-Stop Solution App! Here, we've created a versatile platform that serves your needs, whether you're looking to endorse someone's skills or share your confessions. This README provides an overview of the application and the technology stack used to build it.
+Welcome to the One-Stop Solution App! Here, we've created a versatile platform that serves your needs, whether you're looking to endorse someone's skills or share your confessions.
 
 ## Features
 
